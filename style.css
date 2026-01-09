@@ -1,0 +1,33 @@
+.body-style {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+}
+
+.nav {
+    background-color: #d6001c; /* Al Ahly red */
+    padding: 10px;
+    text-align: center;
+}
+
+.nav a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+}
+
+.title {
+    text-align: center;
+    color: #333;
+}
+
+.text {
+    width: 80%;
+    margin: auto;
+    font-size: 18px;
+}
+
+.gallery img {
+    margin: 10px;
+    border: 2px solid #333;
+}
